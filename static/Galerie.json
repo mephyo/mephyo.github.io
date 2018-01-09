@@ -1,0 +1,81 @@
+{
+    "gallery": [{
+            "name": "Lemon",
+            "codeName": "lemon",
+            "cover": [
+                "https://loremflickr.com/320/240/cat",
+                "https://loremflickr.com/320/240/cat",
+                "https://loremflickr.com/320/240/cat"
+            ],
+            "private": true,
+            "photos": [{
+                    "src": "https://loremflickr.com/320/240/cat",
+                    "codeName": "lemon-1"
+                },
+                {
+                    "src": "https://loremflickr.com/320/240/cat",
+                    "codeName": "lemon-2",
+                    "desc": "Last time with Lemon, but I  didn't know that time."
+                },
+                {
+                    "src": "https://loremflickr.com/320/240/cat",
+                    "codeName": "lemon-3"
+                },
+                {
+                    "src": "https://loremflickr.com/320/240/cat",
+                    "codeName": "lemon-4"
+                },
+                {
+                    "src": "https://loremflickr.com/320/240/cat",
+                    "codeName": "lemon-5"
+                }
+            ]
+        },
+        {
+            "name": "Irene",
+            "codeName": "irene",
+            "cover": [
+                "https://loremflickr.com/320/240/cat",
+                "https://loremflickr.com/320/240/cat",
+                "https://loremflickr.com/320/240/cat"
+            ],
+            "private": false,
+            "photos": [{
+                    "src": "https://loremflickr.com/320/240/cat",
+                    "codeName": "irene-1"
+                },
+                {
+                    "src": "https://loremflickr.com/320/240/cat",
+                    "codeName": "irene-2"
+                },
+                {
+                    "src": "https://loremflickr.com/320/240/cat",
+                    "codeName": "irene-3"
+                }
+            ]
+        },
+        {
+            "name": "Ivy",
+            "codeName": "Ivy",
+            "cover": [
+                "https://loremflickr.com/320/240/cat",
+                "https://loremflickr.com/320/240/cat",
+                "https://loremflickr.com/320/240/cat"
+            ],
+            "private": false,
+            "photos": [{
+                    "src": "https://loremflickr.com/320/240/cat",
+                    "codeName": "Ivy-1"
+                },
+                {
+                    "src": "https://loremflickr.com/320/240/cat",
+                    "codeName": "Ivy-2"
+                },
+                {
+                    "src": "https://loremflickr.com/320/240/cat",
+                    "codeName": "Ivy-3"
+                }
+            ]
+        }
+    ]
+}
