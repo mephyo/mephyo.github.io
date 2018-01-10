@@ -678,12 +678,12 @@
                 "codeName": "lisa4-23"
             }]
         }, {
-            "name": "Lisa5",
+            "name": "Lisa",
             "codeName": "lisa5",
-            "private": true,
+            "private": false,
             "cover": [
+                "https://imgstorage-1255666137.file.myqcloud.com/lisa5/2.jpg",
                 "https://imgstorage-1255666137.file.myqcloud.com/lisa5/6.jpg",
-                "https://imgstorage-1255666137.file.myqcloud.com/lisa5/5.jpg",
                 "https://imgstorage-1255666137.file.myqcloud.com/lisa5/8.jpg"
             ],
             "photos": [{

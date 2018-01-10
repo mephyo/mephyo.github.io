@@ -3,30 +3,30 @@
             "name": "Lemon",
             "codeName": "lemon",
             "cover": [
-                "https://loremflickr.com/320/240/cat",
-                "https://loremflickr.com/320/240/cat",
-                "https://loremflickr.com/320/240/cat"
+                "http://placehold.jp/800x1280.png",
+                "http://placehold.jp/800x1280.png",
+                "http://placehold.jp/800x1280.png"
             ],
             "private": true,
             "photos": [{
-                    "src": "https://loremflickr.com/320/240/cat",
+                    "src": "http://placehold.jp/800x1280.png",
                     "codeName": "lemon-1"
                 },
                 {
-                    "src": "https://loremflickr.com/320/240/cat",
+                    "src": "http://placehold.jp/800x1280.png",
                     "codeName": "lemon-2",
                     "desc": "Last time with Lemon, but I  didn't know that time."
                 },
                 {
-                    "src": "https://loremflickr.com/320/240/cat",
+                    "src": "http://placehold.jp/800x1280.png",
                     "codeName": "lemon-3"
                 },
                 {
-                    "src": "https://loremflickr.com/320/240/cat",
+                    "src": "http://placehold.jp/800x1280.png",
                     "codeName": "lemon-4"
                 },
                 {
-                    "src": "https://loremflickr.com/320/240/cat",
+                    "src": "http://placehold.jp/800x1280.png",
                     "codeName": "lemon-5"
                 }
             ]
@@ -35,21 +35,21 @@
             "name": "Irene",
             "codeName": "irene",
             "cover": [
-                "https://loremflickr.com/320/240/cat",
-                "https://loremflickr.com/320/240/cat",
-                "https://loremflickr.com/320/240/cat"
+                "http://placehold.jp/800x1280.png",
+                "http://placehold.jp/800x1280.png",
+                "http://placehold.jp/800x1280.png"
             ],
             "private": false,
             "photos": [{
-                    "src": "https://loremflickr.com/320/240/cat",
+                    "src": "http://placehold.jp/800x1280.png",
                     "codeName": "irene-1"
                 },
                 {
-                    "src": "https://loremflickr.com/320/240/cat",
+                    "src": "http://placehold.jp/800x1280.png",
                     "codeName": "irene-2"
                 },
                 {
-                    "src": "https://loremflickr.com/320/240/cat",
+                    "src": "http://placehold.jp/800x1280.png",
                     "codeName": "irene-3"
                 }
             ]
@@ -58,21 +58,21 @@
             "name": "Ivy",
             "codeName": "Ivy",
             "cover": [
-                "https://loremflickr.com/320/240/cat",
-                "https://loremflickr.com/320/240/cat",
-                "https://loremflickr.com/320/240/cat"
+                "http://placehold.jp/800x1280.png",
+                "http://placehold.jp/800x1280.png",
+                "http://placehold.jp/800x1280.png"
             ],
             "private": false,
             "photos": [{
-                    "src": "https://loremflickr.com/320/240/cat",
+                    "src": "http://placehold.jp/800x1280.png",
                     "codeName": "Ivy-1"
                 },
                 {
-                    "src": "https://loremflickr.com/320/240/cat",
+                    "src": "http://placehold.jp/800x1280.png",
                     "codeName": "Ivy-2"
                 },
                 {
-                    "src": "https://loremflickr.com/320/240/cat",
+                    "src": "http://placehold.jp/800x1280.png",
                     "codeName": "Ivy-3"
                 }
             ]
