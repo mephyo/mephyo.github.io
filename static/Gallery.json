@@ -482,12 +482,12 @@
                 "codeName": "night-8"
             }]
         }, {
-            "name": "Lisa2",
+            "name": "Lisa",
             "codeName": "lisa2",
             "private": true,
             "secret": false,
             "cover": [
-                "https://imgstorage-1255666137.file.myqcloud.com/lisa2/8.jpg",
+                "https://imgstorage-1255666137.file.myqcloud.com/lisa2/7.jpg",
                 "https://imgstorage-1255666137.file.myqcloud.com/lisa2/3.jpg",
                 "https://imgstorage-1255666137.file.myqcloud.com/lisa2/14.jpg"
             ],
@@ -550,7 +550,7 @@
                 "codeName": "lisa2-19"
             }]
         }, {
-            "name": "Lisa3",
+            "name": "Lisa",
             "codeName": "lisa3",
             "private": true,
             "secret": false,
@@ -609,7 +609,7 @@
                 "codeName": "lisa3-16"
             }]
         }, {
-            "name": "Lisa4",
+            "name": "Lisa",
             "codeName": "lisa4",
             "private": true,
             "secret": false,
@@ -694,8 +694,8 @@
             "private": false,
             "secret": false,
             "cover": [
-                "https://imgstorage-1255666137.file.myqcloud.com/lisa5/2.jpg",
                 "https://imgstorage-1255666137.file.myqcloud.com/lisa5/6.jpg",
+                "https://imgstorage-1255666137.file.myqcloud.com/lisa5/2.jpg",
                 "https://imgstorage-1255666137.file.myqcloud.com/lisa5/8.jpg"
             ],
             "photos": [{
@@ -730,7 +730,7 @@
                 "codeName": "lisa5-10"
             }]
         }, {
-            "name": "Lemon4",
+            "name": "Lemon",
             "codeName": "lemon4",
             "private": true,
             "secret": true,
@@ -966,8 +966,8 @@
             "private": true,
             "secret": true,
             "cover": [
-                "https://imgstorage-1255666137.file.myqcloud.com/m/8.jpg",
                 "https://imgstorage-1255666137.file.myqcloud.com/m/16.jpg",
+                "https://imgstorage-1255666137.file.myqcloud.com/m/8.jpg",
                 "https://imgstorage-1255666137.file.myqcloud.com/m/22.jpg"
             ],
             "photos": [{
@@ -1061,7 +1061,7 @@
             "private": true,
             "secret": true,
             "cover": [
-                "https://imgstorage-1255666137.file.myqcloud.com/ivy1/13.jpg",
+                "https://imgstorage-1255666137.file.myqcloud.com/ivy1/2.jpg",
                 "https://imgstorage-1255666137.file.myqcloud.com/ivy1/11.jpg",
                 "https://imgstorage-1255666137.file.myqcloud.com/ivy1/10.jpg"
             ],
