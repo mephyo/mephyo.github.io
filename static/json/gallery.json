@@ -288,47 +288,24 @@
             }]
         }, {
             "name": "Lisa",
-            "codeName": "lisaundressed",
+            "codeName": "lisa2",
             "private": false,
             "secret": false,
             "cover": [
-                "https://imgstorage-1255666137.file.myqcloud.com/lisaundressed/1.jpg",
                 "https://imgstorage-1255666137.file.myqcloud.com/lisaundressed/2.jpg",
-                "https://imgstorage-1255666137.file.myqcloud.com/lisaundressed/7.jpg"
-            ],
-            "photos": [{
-                "src": "https://imgstorage-1255666137.file.myqcloud.com/lisaundressed/1.jpg",
-                "codeName": "night-1"
-            }, {
-                "src": "https://imgstorage-1255666137.file.myqcloud.com/lisaundressed/2.jpg",
-                "codeName": "night-2"
-            }, {
-                "src": "https://imgstorage-1255666137.file.myqcloud.com/lisaundressed/3.jpg",
-                "codeName": "night-3"
-            }, {
-                "src": "https://imgstorage-1255666137.file.myqcloud.com/lisaundressed/4.jpg",
-                "codeName": "night-4"
-            }, {
-                "src": "https://imgstorage-1255666137.file.myqcloud.com/lisaundressed/5.jpg",
-                "codeName": "night-5"
-            }, {
-                "src": "https://imgstorage-1255666137.file.myqcloud.com/lisaundressed/6.jpg",
-                "codeName": "night-6"
-            }, {
-                "src": "https://imgstorage-1255666137.file.myqcloud.com/lisaundressed/7.jpg",
-                "codeName": "night-7"
-            }]
-        }, {
-            "name": "Lisa",
-            "codeName": "lisa2",
-            "private": true,
-            "secret": false,
-            "cover": [
                 "https://imgstorage-1255666137.file.myqcloud.com/lisa2/7.jpg",
-                "https://imgstorage-1255666137.file.myqcloud.com/lisa2/17.jpg",
                 "https://imgstorage-1255666137.file.myqcloud.com/lisa2/14.jpg"
             ],
             "photos": [{
+                "src": "https://imgstorage-1255666137.file.myqcloud.com/lisaundressed/2.jpg",
+                "codeName": "lisa2-1"
+            }, {
+                "src": "https://imgstorage-1255666137.file.myqcloud.com/lisaundressed/4.jpg",
+                "codeName": "lisa2-2"
+            }, {
+                "src": "https://imgstorage-1255666137.file.myqcloud.com/lisaundressed/7.jpg",
+                "codeName": "lisa2-4"
+            }, {
                 "src": "https://imgstorage-1255666137.file.myqcloud.com/lisa2/7.jpg",
                 "codeName": "lisa2-7"
             }, {
@@ -356,7 +333,7 @@
         }, {
             "name": "Lisa",
             "codeName": "lisa3",
-            "private": true,
+            "private": false,
             "secret": false,
             "cover": [
                 "https://imgstorage-1255666137.file.myqcloud.com/lisa3/5.jpg",
@@ -364,9 +341,6 @@
                 "https://imgstorage-1255666137.file.myqcloud.com/lisa3/11.jpg"
             ],
             "photos": [{
-                "src": "https://imgstorage-1255666137.file.myqcloud.com/lisa3/1.jpg",
-                "codeName": "lisa3-1"
-            }, {
                 "src": "https://imgstorage-1255666137.file.myqcloud.com/lisa3/2.jpg",
                 "codeName": "lisa3-2"
             }, {
@@ -376,14 +350,8 @@
                 "src": "https://imgstorage-1255666137.file.myqcloud.com/lisa3/7.jpg",
                 "codeName": "lisa3-7"
             }, {
-                "src": "https://imgstorage-1255666137.file.myqcloud.com/lisa3/8.jpg",
-                "codeName": "lisa3-8"
-            }, {
                 "src": "https://imgstorage-1255666137.file.myqcloud.com/lisa3/9.jpg",
                 "codeName": "lisa3-9"
-            }, {
-                "src": "https://imgstorage-1255666137.file.myqcloud.com/lisa3/10.jpg",
-                "codeName": "lisa3-10"
             }, {
                 "src": "https://imgstorage-1255666137.file.myqcloud.com/lisa3/11.jpg",
                 "codeName": "lisa3-11"
@@ -474,38 +442,6 @@
                 "codeName": "lisa5-10"
             }]
         }, {
-            "name": "W",
-            "codeName": "w",
-            "private": true,
-            "secret": true,
-            "cover": [
-                "https://imgstorage-1255666137.file.myqcloud.com/w/15.jpg",
-                "https://imgstorage-1255666137.file.myqcloud.com/w/14.jpg",
-                "https://imgstorage-1255666137.file.myqcloud.com/w/2.jpg"
-            ],
-            "photos": [{
-                "src": "https://imgstorage-1255666137.file.myqcloud.com/w/1.jpg",
-                "codeName": "w-1"
-            }, {
-                "src": "https://imgstorage-1255666137.file.myqcloud.com/w/5.jpg",
-                "codeName": "w-5"
-            }, {
-                "src": "https://imgstorage-1255666137.file.myqcloud.com/w/10.jpg",
-                "codeName": "w-10"
-            }, {
-                "src": "https://imgstorage-1255666137.file.myqcloud.com/w/15.jpg",
-                "codeName": "w-15"
-            }, {
-                "src": "https://imgstorage-1255666137.file.myqcloud.com/w/17.jpg",
-                "codeName": "w-17"
-            }, {
-                "src": "https://imgstorage-1255666137.file.myqcloud.com/w/18.jpg",
-                "codeName": "w-18"
-            }, {
-                "src": "https://imgstorage-1255666137.file.myqcloud.com/w/21.jpg",
-                "codeName": "w-21"
-            }]
-        }, {
             "name": "M",
             "codeName": "m",
             "private": true,
@@ -543,17 +479,8 @@
                 "src": "https://imgstorage-1255666137.file.myqcloud.com/m/20.jpg",
                 "codeName": "m-20"
             }, {
-                "src": "https://imgstorage-1255666137.file.myqcloud.com/m/24.jpg",
-                "codeName": "m-24"
-            }, {
                 "src": "https://imgstorage-1255666137.file.myqcloud.com/m/25.jpg",
                 "codeName": "m-25"
-            }, {
-                "src": "https://imgstorage-1255666137.file.myqcloud.com/m/27.jpg",
-                "codeName": "m-27"
-            }, {
-                "src": "https://imgstorage-1255666137.file.myqcloud.com/m/28.jpg",
-                "codeName": "m-28"
             }]
         }, {
             "name": "Ivy",
@@ -561,9 +488,9 @@
             "private": true,
             "secret": true,
             "cover": [
-                "https://imgstorage-1255666137.file.myqcloud.com/ivy1/9.jpg",
+                "https://imgstorage-1255666137.file.myqcloud.com/ivy1/13.jpg",
                 "https://imgstorage-1255666137.file.myqcloud.com/ivy1/11.jpg",
-                "https://imgstorage-1255666137.file.myqcloud.com/ivy1/2.jpg"
+                "https://imgstorage-1255666137.file.myqcloud.com/ivy1/4.jpg"
             ],
             "photos": [{
                 "src": "https://imgstorage-1255666137.file.myqcloud.com/ivy1/2.jpg",
