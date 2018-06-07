@@ -1,0 +1,7 @@
+{
+    "prefix": "https://res.cloudinary.com/mephyo/image/upload/",
+    "gallery": [
+        { "name": "PlaceholderOne" , "codeName": "PlaceholderOne" , "private": false, "coverIds": [1, 3 , 6 ], "photoIds": 7 },
+        { "name": "PlaceholderTwo" , "codeName": "PlaceholderTwo" , "private": false, "coverIds": [1, 2 , 4 ], "photoIds": 4 }
+    ]
+}
