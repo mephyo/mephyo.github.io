@@ -63,9 +63,14 @@
         {
             "name": "April",
             "codeName": "April-2018-5-27",
-            "private": false,
             "coverIds": [10, 11, 3, 9],
             "photoIds": 12
+        },
+        {
+            "name": "Judy",
+            "codeName": "Judy-2018-9-28",
+            "coverIds": [5, 10, 19, 22],
+            "photoIds": 25
         }
     ]
 }
