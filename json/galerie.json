@@ -2,6 +2,7 @@
     "prefix": "https://res.cloudinary.com/mephyo/image/upload/",
     "gallery": [{
             "name": "PlaceholderOne",
+            "date": "2014 7 7",
             "codeName": "PlaceholderOne",
             "private": false,
             "coverIds": [1, 2, 3, 6],
@@ -9,6 +10,7 @@
         },
         {
             "name": "PlaceholderTwo",
+            "date": "2014 7 7",
             "codeName": "PlaceholderTwo",
             "private": false,
             "coverIds": [1, 2, 3, 4],
