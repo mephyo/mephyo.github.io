@@ -12,10 +12,3 @@
     font-weight: normal;
     src: local('Brandon Text Medium Italic'), url('BrandonText-MediumItalic.woff') format('woff');
 }
-
-@font-face {
-    font-family: 'Brandon Text Regular Italic';
-    font-style: normal;
-    font-weight: normal;
-    src: local('Brandon Text Regular Italic'), url('BrandonText-RegularItalic.woff') format('woff');
-}
