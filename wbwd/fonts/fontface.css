@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Brandon Text Medium';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Brandon Text Medium'), url('BrandonText-Medium.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'Brandon Text Medium Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Brandon Text Medium Italic'), url('BrandonText-MediumItalic.woff') format('woff');
+}
