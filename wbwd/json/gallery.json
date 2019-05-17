@@ -1,0 +1,67 @@
+{
+    "prefix": "https://res.cloudinary.com/mephyo/image/upload/",
+    "gallery": [{
+            "name": "Lemon",
+            "date": "2014 4 19",
+            "codeName": "Lemon-2014-4-19",
+            "coverIds": [2, 3, 4, 6],
+            "photoIds": 6
+        },
+        {
+            "name": "Elapse",
+            "date": "2014 7 25",
+            "codeName": "Elapse-2014-7-25",
+            "coverIds": [1, 2, 3, 5],
+            "photoIds": 5
+        },
+        {
+            "name": "Lemon",
+            "date": "2014 7 7",
+            "codeName": "Lemon-2014-7-7",
+            "coverIds": [3, 6, 1, 8],
+            "photoIds": 9
+        },
+        {
+            "name": "Irene",
+            "date": "2014 8 6",
+            "codeName": "Irene-2014-8-6",
+            "coverIds": [1, 3, 5, 2],
+            "photoIds": 9
+        },
+        {
+            "name": "Irene",
+            "date": "2014 8 11",
+            "codeName": "Irene-2014-8-11",
+            "coverIds": [2, 4, 6, 7],
+            "photoIds": 7
+        },
+        {
+            "name": "Lemon",
+            "date": "2014 11 2",
+            "codeName": "Lemon-2014-11-2",
+            "coverIds": [6, 8, 13, 9],
+            "photoIds": 18
+        },
+        {
+            "name": "5",
+            "date": "2018 5 5",
+            "codeName": "2018-5-5",
+            "coverIds": [12, 15, 21, 5],
+            "photoIds": 23
+        },
+        {
+            "name": "April",
+            "date": "2018 5 27",
+            "codeName": "April-2018-5-27",
+            "coverIds": [10, 11, 3, 9],
+            "photoIds": 12
+        },
+        {
+            "name": "Judy",
+            "date": "2018 9 28",
+            "codeName": "Judy-2018-9-28",
+            "coverIds": [5, 10, 19, 22],
+            "photoIds": 25
+        }
+    ]
+}
