@@ -12,11 +12,11 @@
 }
 
 .pace .pace-progress {
-    background: #b5c2c8;
+    background: #ffb300;
     position: absolute;
     z-index: 2000;
-    top: 49px;
-    right: 100%;
-    width: 100%;
+    top: 0;
+    right: 100vw;
+    width: 100vw;
     height: 1px;
 }
