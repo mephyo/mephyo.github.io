@@ -61,7 +61,8 @@
             "date": "2018 9 28",
             "codeName": "Judy-2018-9-28",
             "coverIds": [5, 10, 19, 22],
-            "photoIds": 25
+            "photoIds": 25,
+            "type": 0
         }
     ]
 }
