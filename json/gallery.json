@@ -63,6 +63,14 @@
             "coverIds": [5, 10, 19, 22],
             "photoIds": 25,
             "type": 0
+        },
+        {
+            "name": "Soda",
+            "date": "2019 8 31",
+            "codeName": "Soda-2019-8-31",
+            "coverIds": [4, 5, 9, 10],
+            "photoIds": 12,
+            "type": 1
         }
     ]
 }
