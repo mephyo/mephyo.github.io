@@ -2,5 +2,5 @@
     font-family: 'ChicagoFLF';
     font-style: normal;
     font-weight: normal;
-    src: local('ChicagoFLF'), url('ChicagoFLF.ttf') format('ttf');
+    src: local('ChicagoFLF'), url('ChicagoFLF.ttf') format('TrueType');
 }
