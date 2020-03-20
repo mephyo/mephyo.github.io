@@ -6,7 +6,8 @@
             "codeName": "PlaceholderOne",
             "private": false,
             "coverIds": [1, 2, 3, 6],
-            "photoIds": 7
+            "photoIds": 7,
+            "type": 0
         },
         {
             "name": "PlaceholderTwo",
@@ -14,7 +15,8 @@
             "codeName": "PlaceholderTwo",
             "private": false,
             "coverIds": [1, 2, 3, 4],
-            "photoIds": 4
+            "photoIds": 4,
+            "type": 1
         }
     ]
 }
