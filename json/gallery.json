@@ -37,6 +37,14 @@
             "coverIds": [4, 5, 9, 10],
             "photoIds": 12,
             "type": 1
+        },
+        {
+            "name": "Kanda",
+            "date": "2020 3 29",
+            "codeName": "Kanda-2020-03-29",
+            "coverIds": [1, 2, 6, 10],
+            "photoIds": 12,
+            "type": 0
         }
     ]
 }
