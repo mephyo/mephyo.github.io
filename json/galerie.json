@@ -17,6 +17,31 @@
             "coverIds": [1, 2, 3, 4],
             "photoIds": 4,
             "type": 1
+        }, {
+            "name": "PlaceholderOne",
+            "date": "2014 7 7",
+            "codeName": "PlaceholderOne",
+            "private": false,
+            "coverIds": [1, 2, 3, 6],
+            "photoIds": 7,
+            "type": 0
+        },
+        {
+            "name": "PlaceholderTwo",
+            "date": "2014 7 7",
+            "codeName": "PlaceholderTwo",
+            "private": false,
+            "coverIds": [1, 2, 3, 4],
+            "photoIds": 4,
+            "type": 1
+        }, {
+            "name": "PlaceholderOne",
+            "date": "2014 7 7",
+            "codeName": "PlaceholderOne",
+            "private": false,
+            "coverIds": [1, 2, 3, 6],
+            "photoIds": 7,
+            "type": 0
         }
     ]
 }
