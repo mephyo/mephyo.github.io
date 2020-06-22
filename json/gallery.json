@@ -36,7 +36,7 @@
             "codeName": "Soda-2019-8-31",
             "coverIds": [4, 5, 9, 10],
             "photoIds": 12,
-            "type": 1
+            "type": 0
         },
         {
             "name": "Kanda",
@@ -44,6 +44,14 @@
             "codeName": "Kanda-2020-03-29",
             "coverIds": [1, 2, 6, 10],
             "photoIds": 14,
+            "type": 0
+        },
+        {
+            "name": "Marina",
+            "date": "2019 6 8",
+            "codeName": "Marina-20200608",
+            "coverIds": [5, 2, 4, 3],
+            "photoIds": 10,
             "type": 0
         }
     ]
